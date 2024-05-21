@@ -1,6 +1,7 @@
 ## Olá bem vindo ao meu perfil👋
 me chamo igor rafael e estou estudando no Alura
-![](https://pin.it/4ccL7C8IO)
+![](https://pin.it/1mQ3UWUED)
+
 
 
 <!--
