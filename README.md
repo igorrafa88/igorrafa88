@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá bem vindo ao meu perfil👋
+me chamo igor rafael e estou estudando no Alura
+![](https://pin.it/4ccL7C8IO)
+
 
 <!--
 **igorrafa88/igorrafa88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
